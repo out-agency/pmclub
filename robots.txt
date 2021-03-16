@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+Sitemap: http://pmclub-p3express.tilda.ws/sitemap.xml
+Host: pmclub-p3express.tilda.ws
